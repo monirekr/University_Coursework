@@ -26,10 +26,6 @@ Four interventions evaluated and designed:
 - Checks at **SLS**: stress limitation, crack width
 - Cost comparison between RC and FRC solutions
 
-
-## Tools
-Excel · GeoStudio Slope/W · FLAC 2D · Eurocode 2 · Italian D.M. 17/01/2018
-
 ## Tools
 Excel · GeoStudio Slope/W · FLAC 2D · Eurocode 2 · Italian D.M. 17/01/2018
 
