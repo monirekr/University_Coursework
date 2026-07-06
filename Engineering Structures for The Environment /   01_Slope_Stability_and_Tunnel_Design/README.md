@@ -31,14 +31,13 @@ Excel · GeoStudio Slope/W · FLAC 2D · Eurocode 2 · Italian D.M. 17/01/2018
 
 ## Preview
 
-### Slope Stability — Excel Implementation
-![Excel](images/excel_slope.png)
-
-### Critical Failure Surface — GeoStudio
+### Slope Stability Analysis
+![Excel](images/excel_slope.png)  
 ![GeoStudio](images/geostudio_failure.png)
-
-### Numerical Analysis — FLAC 2D
 ![FLAC](images/flac_strain.png)
+
+### Stabilization Design
+![Stabilization](images/stabilization_design.png)
 
 ### Tunnel Lining Design
 ![Tunnel](images/tunnel_lining.png)
