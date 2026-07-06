@@ -32,12 +32,13 @@ Excel · GeoStudio Slope/W · FLAC 2D · Eurocode 2 · Italian D.M. 17/01/2018
 ## Preview
 
 ### Slope Stability Analysis
-![Excel](images/excel_slope.png)  
-![GeoStudio](images/geostudio_failure.png)
-![FLAC](images/flac_strain.png)
+<img src="images/excel_slope.png" width="600"/>
+<img src="images/geostudio_failure.png" width="600"/>
+<img src="images/flac_strain.png" width="600"/>
 
 ### Stabilization Design
-![Stabilization](images/stabilization_design.png)
+<img src="images/stabilization_design.png" width="600"/>
 
 ### Tunnel Lining Design
-![Tunnel](images/tunnel_lining.png)
+<img src="images/tunnel_forces.png" width="400"/>
+<img src="images/RC_design.png" width="400"/>
