@@ -1,7 +1,7 @@
 # Slope Stability Analysis and Tunnel Design
 
 ## Problem
-- Circular tunnel (D = 6 m) to be built through a two-layer slope
+- Circular tunnel to be built through a two-layer slope
 - Slope unstable under drained conditions → landslide risk before construction
 - Two objectives: **stabilize the slope** and **design the tunnel lining**
 
