@@ -8,7 +8,7 @@ Three-part course including slope stability, underground structures, and structu
 - Estimated the cost of each design
 - → [View project](01_Slope_Stability_and_Tunnel_Design/README.md)
 
-## Durability, Monitoring and Control
+## Structure Durability: Monitoring and Control
 - Studied corrosion mechanisms in RC structures: carbonation, chloride ingress 
   pitting, SCC, and electrochemical protection methods
 - Implemented two service life prediction models in Excel with adjustable parameters
