@@ -1,4 +1,5 @@
 # River Hydraulics for Flood Risk Evaluation
+1D and 2D hydraulic modelling of rivers
 
 ## Case Study
 14 km reach of the **Oglio River** (Lombardy, Italy) between Ostiano and Canneto sull'Oglio
@@ -17,6 +18,10 @@
 **2D modelling**
 - Performed two simulations with different floodplain configurations
 - Compared water surface and velocity profiles against 1D results at two cross-sections
+
+## Tools
+HEC-RAS (1D steady and unsteady), River 2D, Excel
+
 
 ## Preview
 <img src="images/workflow.jpg" width="500"/>
