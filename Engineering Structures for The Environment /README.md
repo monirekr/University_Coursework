@@ -1,15 +1,17 @@
 # Engineering Structures for the Environment
-Three-part course including slope stability, underground structures, and structure durability
+Three-module course including slope stability, Eurocode-based structural design, and structural durability
 
-## Slope Stability Analysis and Tunnel Design
-- Assessed slope stability for a schematic profile using Fellenius, Bishop and Janbu methods implemented in Excel and cross-validated in GeoStudio and FLAC 2D
-- Designed four stabilization interventions and selected the optimal combination
-- Designed a circular tunnel lining in both RC and FRC with full ULS and SLS verification
-- Estimated the cost of each design
-- → [View project](01_Slope_Stability_and_Tunnel_Design/README.md)
+## Slope Stability and Stabilizing Interventions
+- LEM and FEM for 2D slope stability
+- Design of stabilization interventions (drainage, reinforced embankments, anchored plates, piles)
+- → [View project](Slope_Stability_and_Tunnel_Design/README.md)
 
-## Structure Durability: Monitoring and Control
-- Studied corrosion mechanisms in RC structures: carbonation, chloride ingress 
-  pitting, SCC, and electrochemical protection methods
-- Implemented two service life prediction models in Excel with adjustable parameters
-- → [View implementation](02_Durability_and_Monitoring/README.md)
+### Underground and Environmental Structures
+- Structural design of RC, FRC and steel elements under eccentric loads 
+- Tunnel lining design
+→ [View project](Slope_Stability_and_Tunnel_Design/README.md)
+
+### Structure Durability: Monitoring and Control
+Corrosion mechanisms in RC structures, service life prediction, 
+inspection techniques, and repair strategies.
+→ [View implementation](Durability/README.md)
