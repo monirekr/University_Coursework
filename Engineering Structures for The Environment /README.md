@@ -1,7 +1,7 @@
 # Engineering Structures for the Environment
 Three-part course including slope stability, underground structures, and structure durability
 
-## Slope Stability and Tunnel Design
+## Slope Stability Analysis and Tunnel Design
 - Assessed slope stability for a schematic profile using Fellenius, Bishop and Janbu methods implemented in Excel and cross-validated in GeoStudio and FLAC 2D
 - Designed four stabilization interventions and selected the optimal combination
 - Designed a circular tunnel lining in both RC and FRC with full ULS and SLS verification
