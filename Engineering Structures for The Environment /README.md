@@ -2,7 +2,7 @@
 Three-part course including slope stability, underground structures, and structure durability
 
 ## Slope Stability and Tunnel Design
-- Assessed slope stability using Fellenius, Bishop and Janbu methods implemented in Excel and cross-validated in GeoStudio and FLAC 2D
+- Assessed slope stability for a schematic profile using Fellenius, Bishop and Janbu methods implemented in Excel and cross-validated in GeoStudio and FLAC 2D
 - Designed four stabilization interventions and selected the optimal combination
 - Designed a circular tunnel lining in both RC and FRC with full ULS and SLS verification
 - Estimated the cost of each design
