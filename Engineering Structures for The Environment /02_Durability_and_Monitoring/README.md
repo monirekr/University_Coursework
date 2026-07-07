@@ -1,6 +1,6 @@
 # Structure Durability: Monitoring and Control
 
-## Topics Covered
+## What I studied
 - Electrochemical basis of corrosion: thermodynamics, kinetics, passivation
 - Corrosion mechanisms: carbonation, chloride ingress, pitting, SCC
 - Deterioration of RC structures: crack initiation, propagation, spalling
