@@ -1,18 +1,21 @@
-# Integrated Hazard Assessment and Emergency Planning
-Three-course integrated project: geological hazard, hydraulic modelling, 
-and emergency planning applied to a single real case study.
+# Emergency Plans for Hydrogeological Risks
+Three-module course including geological hazard assessment, hydro-morphologic modelling, 
+and emergency planning applied to a single real case study
 
-## Modules
 ### Geology
-Landslide stability, debris flow assessment, and basin erosion estimation
-→ [View](01_Geology/README.md)
+- Landslide stability evaluation
+- Debris flow assessment
+- Basin erosion estimation
+  
 
 ### Hydraulics
-Hydro-morphological modelling, urban inundation, and sensitivity analysis
-→ [View](02_Hydraulics/README.md)
+- River morphologic evolution modelling
+- Urban inundation modeliing
 
-### Emergency Plan
-Damage assessment, evacuation planning, and response strategy
-→ [View](03_Emergency_Plan/README.md)
+
+### Emergency Planning
+- Flood damage assessment
+- Evacuation planning
+- Response strategy
 
 → [View integrated project](Project/README.md)
