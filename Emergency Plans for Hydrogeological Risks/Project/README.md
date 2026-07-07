@@ -30,7 +30,7 @@ with sediment transport from the Torreggio tributary
 SLOPE, TopRunDF, QGIS, Excel, BASEMENT, River 2D
 
 ## Preview
-![](Emergency_Plans_for_Hydrogeological_Risks/images/slope.png)
+<img src="images/slope.png" width="500"/>
 <img src="images/USLE.png" width="500"/>
 <img src="images/basement.png" width="500"/>
 <img src="images/river2d.png" width="500"/>
