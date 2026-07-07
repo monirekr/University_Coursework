@@ -13,12 +13,12 @@
 
 ## Stabilization Design
 Four interventions evaluated and designed:
-- **Drainage** — tube and trench drains to reduce pore pressure along failure surface
-- **Reinforced embankment** — geogrid-reinforced toe fill + crest excavation, verified for external and internal stability
-- **Anchored plates** — pre-stressed, analyzed with both force-based and displacement-based approaches
-- **Piles** — designed using soil-structure interaction abaci
+- **Drainage**: tube and trench drains to reduce pore water pressure along failure surface
+- **Reinforced embankment**: geogrid-reinforced toe fill + crest excavation, verified for external and internal stability
+- **Anchored plates**: pre-stressed, analyzed with both force-based and displacement-based approaches
+- **Piles**: designed using soil-structure interaction abaci
 
-→ Final design: tube drainage + anchored plates (best balance of effectiveness and constructability)
+→ Final selected intervention: tube drainage + anchored plates (best balance of effectiveness and constructability)
 
 ## Tunnel Lining Design
 - Two material solutions compared: **RC** and **FRC**
